@@ -71,15 +71,6 @@ I’m passionate about building software that makes life better for people, lear
 ---
 
 
-## 🎧 What I'm listening to:
-
-<p align="center">
-    <a href="https://open.spotify.com/track/5xaFYSG9oSO9vHV23t281o?si=b4f3c6abb6864e18" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Jenna's Spotify" />
-    </a>
-</p>
-<br>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
