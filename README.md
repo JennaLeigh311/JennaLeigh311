@@ -42,8 +42,6 @@ I’m passionate about building software that makes life better for people, lear
     <a href="https://www.javascript.com" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
     </a> 
-
-    <!-- Tools & Frameworks -->
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></code> 
     </a> 
