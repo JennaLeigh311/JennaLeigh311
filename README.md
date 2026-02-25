@@ -9,9 +9,9 @@ I’m passionate about building software that makes life better for people, lear
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
+- 💻 Incoming SWE intern @ Schweitzer Engineering Laboratories
 - 🏠 Currently Working with Family Promise of Spokane contributing to a property and landlord matching tool to help connect families with housing
 - 📱 Exploring iOS app development 
-- 💻 Eager to collaborate on exciting Software Engineering projects
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
