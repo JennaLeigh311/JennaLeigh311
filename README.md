@@ -15,8 +15,6 @@ I’m passionate about building software that makes life better for people, lear
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
-- 🧾 Check out my [resume](ttps://drive.google.com/file/d/1-lgivvaesp8KD3qjIubzK7DU_uEBx7-z/view)
-- 🔗 Check out my [website](ttps://jenna-leigh-portfolio.netlify.app/)
 
 ---
 
