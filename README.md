@@ -9,7 +9,7 @@ I’m passionate about building software that makes life better for people, lear
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 💻 Incoming SWE intern @ Schweitzer Engineering Laboratories
+- 💻 SWE intern @ Schweitzer Engineering Laboratories
 - 🏠 Currently Working with Family Promise of Spokane contributing to a property and landlord matching tool to help connect families with housing
 - 📱 Exploring iOS app development 
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
