@@ -9,7 +9,7 @@ I’m passionate about building software that makes life better for people, lear
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 💻 SWE intern @ Schweitzer Engineering Laboratories
+- 💻 SWE intern @ Olive Tree Bible
 - 📱 Exploring AI/ML
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
 - 👩 Pronouns: **She/Her**
