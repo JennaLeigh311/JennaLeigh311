@@ -6,18 +6,15 @@ I’m passionate about building software that makes life better for people, lear
 ---
 
 ## ⚡ Quick Facts:
-
-<img align="right" src="./assets/cat-keyboard.gif">
+<p>
+    <img align="right" src="./assets/cat-keyboard.gif">
+</p>
 
 - 💻 SWE intern @ Olive Tree Bible
 - 📱 Exploring AI/ML
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
-
-
-
-
 
 ---
 
