@@ -15,6 +15,10 @@ I’m passionate about building software that makes life better for people, lear
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
 
+
+
+
+
 ---
 
 ## 🛠️ Languages and Tools I use:
