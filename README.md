@@ -7,7 +7,7 @@ I’m passionate about building software that makes life better for people, lear
 
 ## ⚡ Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="./assets/cat-keyboard.gif">
 
 - 💻 SWE intern @ Olive Tree Bible
 - 📱 Exploring AI/ML
