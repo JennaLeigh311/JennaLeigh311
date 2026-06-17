@@ -3,8 +3,6 @@
 I'm a **Computer Science student at Whitworth University**, graduating in **Spring 2027**.  
 I’m passionate about building software that makes life better for people, learning new technologies, and working on projects that combine creativity with technical problem-solving.
 
----
-
 ## ⚡ Quick Facts:
 <p>
     <img align="right" src="./assets/cat-keyboard.gif">
@@ -15,8 +13,6 @@ I’m passionate about building software that makes life better for people, lear
 - 🍣 Love eating and discovering new food — especially Japanese cuisine  
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
-
----
 
 ## 🛠️ Languages and Tools I use:
 
