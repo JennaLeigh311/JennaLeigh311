@@ -1,6 +1,6 @@
 # Hi, I'm Jenna Leigh
 
-I'm a **Computer Science student at Whitworth University**, graduating in **Spring 2027**.  
+I'm a **Computer Science student at Whitworth University**, graduating in **December 2027**.  
 I’m passionate about building software that makes life better for people, learning new technologies, and working on projects that combine creativity with technical problem-solving.
 
 ## ⚡ Quick Facts:
@@ -10,7 +10,7 @@ I’m passionate about building software that makes life better for people, lear
 
 - 💻 SWE intern @ Olive Tree Bible
 - 📱 Exploring AI/ML
-- 🍣 Love eating and discovering new food — especially Japanese cuisine  
+- 🍣 Love eating and discovering new food — especially Asian cuisine  
 - 👩 Pronouns: **She/Her**
 - 📫 Reach me at: [jennaleigh311@gmail.com](mailto:jennaleigh311@gmail.com)
 
